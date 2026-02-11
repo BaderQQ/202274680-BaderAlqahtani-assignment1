@@ -15,7 +15,7 @@ I used GitHub Copilot for basic code suggestions and auto-completion while writi
 
 - Helped me understand how to structure a responsive website.
 
-- Saved time when generating basic layout and styling.
+- Saved time when generating basic layout and styling .
 
 - Provided explanations for concepts like Flexbox and media queries.
 
